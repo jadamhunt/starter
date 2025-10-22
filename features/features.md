@@ -1,0 +1,4 @@
+  - [ ] stronger
+  - [ ] harder
+  - [ ] faster
+  - [ ] longer
